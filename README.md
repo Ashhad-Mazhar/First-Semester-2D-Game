@@ -8,7 +8,6 @@ Welcome to Shadow Warrior, a 2D shooting game developed using C++ and featuring 
 - Challenging boss battle after defeating other enemies
 - Intuitive controls that allow you to move, aim, and shoot with ease
 - File handling functionality for saving and loading player data, allowing for seamless gameplay across sessions
-- Clean and well-organized code that demonstrates best practices for game development in C++
 
 ## Getting Started
 
